@@ -15,8 +15,10 @@ void feature_b()
 
 void feature_c()
 {
-    
+    cout << "feature c" << endl;
 }
+
+int i;
 
 int main()
 {
