@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void bugFix()
+{
+    
+}
+
 int main()
 {
     cout << "hello world!" << endl;
