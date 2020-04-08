@@ -10,6 +10,11 @@ void feature_a()
 
 void feature_b()
 {
+
+}
+
+void feature_c()
+{
     
 }
 
